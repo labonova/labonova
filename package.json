@@ -1,6 +1,6 @@
 {
   "name": "labonova",
-  "version": "1.0.0",
+  "version": "2.39.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
